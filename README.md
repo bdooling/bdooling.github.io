@@ -17,7 +17,7 @@
 ___
 ## Ham Radio / RF Hobby
 
-Amateur radio license holder; call sign KI5QKF.
+Amateur radio license holder; call sign [KI5QKF](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4462624).
 
 I learn something new about this fascinating field every week, and will never run out of opportunities to learn more.
 
