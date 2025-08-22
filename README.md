@@ -1,7 +1,7 @@
 # About Me
 
 ## Career in Cybersecurity
-* ~25 years in the field (https://www.linkedin.com/in/bdooling): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant
+* ~25 years in the field ([LinkedIn profile](https://www.linkedin.com/in/bdooling)): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant
 * Small business owner & operator since 2009
 * I'm self-motivated, and have regularly shifted my focus for the sake of continued learning and breadth of knowledge
     * (See: SANS work-study programs; GICSP, GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT certifications)
@@ -12,7 +12,7 @@
 ## Three main reasons I'm eager to work further in ICS security
 1. To better understand the pervasive but largely unnoticed systems that enable almost every facet of modern life
 2. To protect lives, and societal well-being
-3. To encourage kids' interest in cybersecurity  ( physical processes are tangible, and have clearly-understood implications )
+3. To encourage kids' interest in cybersecurity  (physical processes are tangible, and have clear implications)
 
 
 ## Ham Radio / RF Hobby
@@ -23,19 +23,19 @@ I learn something new about this fascinating field every week, and will never ru
 
 ### ADS-B
 
-I run an ADS-B Feeder that picks up signals from nearby aircraft and feeds the data to ADSB Exchange (https://www.adsbexchange.com/), which aggregates data from contributes onto a [global map]([url](https://globe.adsbexchange.com/)).
+I run an ADS-B Feeder that picks up signals from nearby aircraft and feeds the data to [ADSB Exchange](https://www.adsbexchange.com/), which aggregates data from contributes onto a [global map](https://globe.adsbexchange.com/).
 
 Specifically, two antennas (each paired with an SDR) receive and decode ADS-B UAT (978 MHz; for aircraft that operate below 18,000 FT MSL), and ADS-B ES (1090 MHz; above that height).
 
-Aircraft from my feed can be viewed at [https://globe.adsbexchange.com/?feed=9pzsO_x-W0IK]([url](https://globe.adsbexchange.com/?feed=9pzsO_x-W0IK)), and stats from my feeder [here]([url](https://www.adsbexchange.com/api/feeders/?feed=9pzsO_x-W0IK)).
+Aircraft from my feed can be viewed at [https://globe.adsbexchange.com/?feed=9pzsO_x-W0IK](https://globe.adsbexchange.com/?feed=9pzsO_x-W0IK), and stats from my feeder [here](https://www.adsbexchange.com/api/feeders/?feed=9pzsO_x-W0IK).
 
-Lastly, some additional interesting stats can be viewed on the ADSB Exchange "[leaderboard]([url](https://globe.adsbexchange.com/leaderboard/))" by searching for my feed ID (`9pzsO_x-W0IK`).
+Lastly, some additional interesting stats can be viewed on the ADSB Exchange "[leaderboard](https://globe.adsbexchange.com/leaderboard/)" by searching for my feed ID (`9pzsO_x-W0IK`).
 
 ### FT8
 
 Along with my kids, we experiment with a few different radios and antennas to "collect" radio signals from far-flung places around the world. 
 
-Our most recent activity can be seen at the [PSKReporter site]([url](https://www.pskreporter.info/pskmap?preset&callsign=KI5QKF&timerange=86400&hideunrec=1&blankifnone=1&showsnr=1&showlines=1&mapCenter=37.22207150572336,-90.37766484038866,3.3992446412754806)) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/Countries-KI5QKF-AllTime-Unique.txt). 
+Our most recent activity can be seen at the [PSKReporter site](https://www.pskreporter.info/pskmap?preset&callsign=KI5QKF&timerange=86400&hideunrec=1&blankifnone=1&showsnr=1&showlines=1&mapCenter=37.22207150572336,-90.37766484038866,3.3992446412754806) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/Countries-KI5QKF-AllTime-Unique.txt). 
 
 
 ## Other Areas
