@@ -1,8 +1,27 @@
-# bdooling.github.io
+# About Me
 
-# Radio / RF
+## Career in Cybersecurity
+* ~25 years in the field (https://www.linkedin.com/in/bdooling): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant
+* Small business owner & operator since 2009
+* I'm self-motivated, and have regularly shifted my focus for the sake of continued learning and breadth of knowledge
+    * (See: SANS work-study programs; GICSP, GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT certifications)
+* Now focused on growing skills and experience in industrial control systems & critical infrastructure; ham radio and SDR.
 
-## ADS-B
+**I'm primarily driven by meaningful work, desire to learn, and diverse experiences**
+
+## Three main reasons I'm eager to work further in ICS security
+1. To better understand the pervasive but largely unnoticed systems that enable almost every facet of modern life
+2. To protect lives, and societal well-being
+3. To encourage kids' interest in cybersecurity  ( physical processes are tangible, and have clearly-understood implications )
+
+
+## Ham Radio / RF Hobby
+
+Amateur radio license holder; call sign KI5QKF
+
+I learn something new about this fascinating field every week, and will never run out of opportunities to learn more.
+
+### ADS-B
 
 I run an ADS-B Feeder that picks up signals from nearby aircraft and feeds the data to ADSB Exchange (https://www.adsbexchange.com/), which aggregates data from contributes onto a [global map]([url](https://globe.adsbexchange.com/)).
 
@@ -12,6 +31,15 @@ Aircraft from my feed can be viewed at [https://globe.adsbexchange.com/?feed=9pz
 
 Lastly, some additional interesting stats can be viewed on the ADSB Exchange "[leaderboard]([url](https://globe.adsbexchange.com/leaderboard/))" by searching for my feed ID (`9pzsO_x-W0IK`).
 
+### FT8
 
-## FT8
+Along with my kids, we experiment with a few different radios and antennas to "collect" radio signals from far-flung places around the world. 
 
+Our most recent activity can be seen at the [PSKReporter site]([url](https://www.pskreporter.info/pskmap?preset&callsign=KI5QKF&timerange=86400&hideunrec=1&blankifnone=1&showsnr=1&showlines=1&mapCenter=37.22207150572336,-90.37766484038866,3.3992446412754806)) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/Countries-KI5QKF-AllTime-Unique.txt). 
+
+
+## Other Areas
+
+### Farming
+
+I help out on our family's small farm in central/western Maryland - enjoying time outside, physical labor, and developing some entirely new skills.
