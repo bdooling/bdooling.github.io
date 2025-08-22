@@ -1,13 +1,13 @@
 # Bob (Robert) Dooling
 
 ## Career in Cybersecurity
-* ~25 years in the field ([LinkedIn profile](https://www.linkedin.com/in/bdooling)): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant.
+* ~25 years experience ([LinkedIn](https://www.linkedin.com/in/bdooling)): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant.
 * Small business owner & operator since 2009.
-* Intrinsically motivated to grow skills and share experience in industrial control systems & critical infrastructure security.
-* Obtained numerous certifications: GICSP, GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT; CISSP; CEH.
-* I'm primarily driven by **meaningful work, desire to learn, and diverse experiences** (not concerned with pay rate, title, etc.).
+* Intrinsically motivated to grow skills and share experience in ICS & critical infrastructure security.
+* Certifications include: GICSP, GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT; CISSP; CEH.
+* I'm primarily driven by **meaningful work, desire to learn, and diverse experiences** (not pay rate, title, etc).
 
-### Focus on ICS security:
+### Focus on Industrial Control System security:
 1. To better understand the pervasive but largely unnoticed systems that enable almost every facet of modern life.
 2. To protect lives, and societal well-being.
 3. To encourage kids' interest in cybersecurity  (physical processes are tangible, and have clear implications).
@@ -19,7 +19,9 @@ Amateur radio license holder; call sign [KI5QKF](https://wireless2.fcc.gov/UlsAp
 
 I learn something new about this fascinating field every week, and will never run out of opportunities to learn more.
 
-### ADS-B
+Along with my kids, we experiment with a few different radio and antenna combinations to collect radio signals from places near and far (literally around the world)!
+
+#### ADS-B
 
 I run an ADS-B Feeder that picks up signals from nearby aircraft and feeds the data to [ADSB Exchange](https://www.adsbexchange.com/), which aggregates data from contributes onto a [global map](https://globe.adsbexchange.com/).
 
@@ -29,11 +31,9 @@ Aircraft from my feed can be viewed at [https://globe.adsbexchange.com/?feed=9pz
 
 Some additional stats can be viewed on the ADSB Exchange "[leaderboard](https://globe.adsbexchange.com/leaderboard/)" by searching for my feed ID (`9pzsO_x-W0IK`).
 
-### FT8
+#### FT8
 
-Along with my kids, we experiment with a few different radios and antennas to collect radio signals from far-flung places around the world. 
-
-Our most recent activity can be seen at the [PSKReporter site](https://www.pskreporter.info/pskmap?preset&callsign=KI5QKF&timerange=86400&hideunrec=1&blankifnone=1&showsnr=1&showlines=1&mapCenter=37.22207150572336,-90.37766484038866,3.3992446412754806) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/Countries-KI5QKF-AllTime-Unique.txt). 
+Our most recent activity with this "weak signal" digital mode can be seen at the [PSKReporter site](https://www.pskreporter.info/pskmap?preset&callsign=KI5QKF&timerange=86400&hideunrec=1&blankifnone=1&showsnr=1&showlines=1&mapCenter=37.22207150572336,-90.37766484038866,3.3992446412754806) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/Countries-KI5QKF-AllTime-Unique.txt). 
 
 ___
 ## Other Avocations
