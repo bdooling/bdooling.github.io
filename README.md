@@ -9,7 +9,7 @@
 
 **I'm primarily driven by meaningful work, desire to learn, and diverse experiences**
 
-## Three main reasons I'm eager to work further in ICS security
+### Reasons I'm Focusing on ICS security:
 1. To better understand the pervasive but largely unnoticed systems that enable almost every facet of modern life
 2. To protect lives, and societal well-being
 3. To encourage kids' interest in cybersecurity  (physical processes are tangible, and have clear implications)
@@ -17,7 +17,7 @@
 
 ## Ham Radio / RF Hobby
 
-Amateur radio license holder; call sign KI5QKF
+Amateur radio license holder; call sign KI5QKF.
 
 I learn something new about this fascinating field every week, and will never run out of opportunities to learn more.
 
