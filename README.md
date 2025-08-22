@@ -14,7 +14,7 @@
 2. To protect lives, and societal well-being
 3. To encourage kids' interest in cybersecurity  (physical processes are tangible, and have clear implications)
 
-
+___
 ## Ham Radio / RF Hobby
 
 Amateur radio license holder; call sign KI5QKF.
@@ -37,7 +37,7 @@ Along with my kids, we experiment with a few different radios and antennas to "c
 
 Our most recent activity can be seen at the [PSKReporter site](https://www.pskreporter.info/pskmap?preset&callsign=KI5QKF&timerange=86400&hideunrec=1&blankifnone=1&showsnr=1&showlines=1&mapCenter=37.22207150572336,-90.37766484038866,3.3992446412754806) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/Countries-KI5QKF-AllTime-Unique.txt). 
 
-
+___
 ## Other Areas
 
 ### Farming
