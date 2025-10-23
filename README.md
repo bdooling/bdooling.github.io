@@ -38,6 +38,9 @@ Our most recent activity with this "weak signal" digital mode can be seen at the
 ___
 ## Other Avocations
 
+### Mapping
+I contribute (modestly) to [OpenStreetMap](https://www.openstreetmap.org/about). [My efforts](https://www.openstreetmap.org/user/RDDMD/history) focus mostly on local & regional infrastructure systems - which are also fed into [OpenInfraMap](https://openinframap.org/about), a very cool project to visualize the infrastructure that is hidden in plain sight all around us ([for example](https://openinframap.org/#11.84/39.26185/-76.69132)).
+
 ### Farming
 
 I help out on our family's small farm in western Maryland - enjoying time outside, physical labor, and developing some entirely new skills.
