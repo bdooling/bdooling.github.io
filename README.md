@@ -4,7 +4,8 @@
 * ~25 years experience ([LinkedIn](https://www.linkedin.com/in/bdooling)): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant.
 * Small business owner & operator since 2009.
 * Intrinsically motivated to grow skills and share experience in ICS & critical infrastructure security.
-* Certifications include: GICSP, GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT; CISSP; CEH.
+* Experience includes network architecture and configuration reviews; IT->OT PenTests; Physical/Social PenTests; War-dialing, and various wireless/RF assessements
+* Certifications include: **GICSP**, GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT; **CISSP**; CEH.
 * I'm primarily driven by **meaningful work, desire to learn, and diverse experiences** (not pay rate, title, etc).
 
 ### Focus on Industrial Control System security:
