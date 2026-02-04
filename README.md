@@ -34,7 +34,7 @@ Some additional stats can be viewed on the ADSB Exchange "[leaderboard](https://
 
 #### FT8
 
-Our most recent activity with this "weak signal" digital mode can be seen at the [PSKReporter site](https://www.pskreporter.info/pskmap?preset&callsign=KI5QKF&timerange=86400&hideunrec=1&blankifnone=1&showsnr=1&showlines=1&mapCenter=37.22207150572336,-90.37766484038866,3.3992446412754806) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/Countries-KI5QKF-AllTime-Unique.txt). 
+Our most recent activity with this "weak signal" digital mode can be seen at the [PSKReporter site](https://www.pskreporter.info/pskmap?preset&callsign=W2HIP&timerange=86400) (note: some days we're quiet / offline), while a comprehensive list of countries/territories we've received contacts from is maintained [here](https://raw.githubusercontent.com/bdooling/public_gh_content/refs/heads/master/rf/pskreporter-combined-unique.txt). 
 
 ___
 ## Other Avocations
