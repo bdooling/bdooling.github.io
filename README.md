@@ -13,6 +13,8 @@
 2. To protect lives, and societal well-being.
 3. To encourage kids' interest in cybersecurity  (physical processes are tangible, and have clear implications).
 
+*Recently, I've focused on learning about radio communications in infrastructure systems, the risks posed by these communications, and how to manage those risks.*
+
 ___
 ## Ham Radio / RF Hobby
 
