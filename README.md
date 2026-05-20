@@ -1,11 +1,11 @@
 # Bob (Robert) Dooling
 
 ## Career in Cybersecurity
-* ~25 years experience ([LinkedIn](https://www.linkedin.com/in/bdooling)): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant.
+* **25 years experience** ([LinkedIn](https://www.linkedin.com/in/bdooling)): Auditor, SOC analyst, PenTester, Incident Responder; NIST, GRC & vCISO consultant.
 * Small business owner / freelance contractor since 2009.
 * Intrinsically motivated to grow skills and share experience in ICS & critical infrastructure security.
-* ICS experience includes network architecture and configuration reviews; IT->OT PenTests; wireless/RF assessements - across public and private electric & water utilities; fuel extraction, refining, and distribution; shipping; healthcare; and telecomm.
-* Certifications include: Global Industrial Cyber Security Professional (GICSP), GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT; CISSP; Open FAIR, CEH.
+* **ICS experience** includes network architecture and configuration reviews; IT->OT PenTests; wireless/RF assessements - across public and private electric & water utilities; fuel extraction, refining, and distribution; shipping; healthcare; and telecomm.
+* Certifications include: Global Industrial Cyber Security Professional (**GICSP**), GAWN, GCFE, GCFW, GCIH, GNFA, GPYC, GSEC, GSNA, GWAPT; CISSP; Open FAIR, CEH.
 * At this stage of my career I'm driven by **meaningful work, desire to continue learning, and cybersecurity for the public good** (not pay rate or title).
 
 ### Industrial Control System security
