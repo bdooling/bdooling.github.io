@@ -25,15 +25,15 @@
 * Amateur radio - public service operations
 * University of Texas at Austin - contributing lecturer
 
-# Availability for Work
+## Availability for Work
 
 * I'm available "on demand" / elastically for freelance projects as a 1099 contractor.
 * I'm willing and able to travel, eager to learn more about ICS, and not concerned with pay rate or title.
 
 ___
-## Other Avocations
+### Other Avocations
 
-### Ham Radio / RF security hobbyist
+#### Ham Radio / RF security hobbyist
 
 Amateur radio license holder; call sign [W2HIP](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=5240183).
 
@@ -41,9 +41,9 @@ I learn something new about this fascinating field every week, and will never ru
 
 Along with my kids, we experiment with a few different radio and antenna combinations to collect and analyze radio signals from fellow operators and machines near and far.
 
-### Mapping
+#### Mapping
 I contribute modestly to [OpenStreetMap](https://www.openstreetmap.org/about). [My efforts](https://www.openstreetmap.org/user/RDDMD/history) focus mostly on local & regional infrastructure systems - which are also fed into [OpenInfraMap](https://openinframap.org/about), a project to visualize the infrastructure that is hidden in plain sight all around us ([for example](https://openinframap.org/#11.84/39.26185/-76.69132)).
 
-### Farming
+#### Farming
 
 I help out on our family's small farm in western Maryland - enjoying time outside, physical labor, problem-solving, and developing new skills.
