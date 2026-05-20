@@ -31,7 +31,7 @@
 * I'm willing and able to travel, eager to learn more about ICS, and not concerned with pay rate or title.
 
 ___
-### Other Avocations
+### Avocations
 
 #### Ham Radio / RF security hobbyist
 
